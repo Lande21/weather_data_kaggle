@@ -19,3 +19,14 @@ plt.ylabel('Temperature (°C)')
 plt.title('Min and Max Temperatures Over Index')
 plt.legend()
 plt.show()
+
+
+#2
+plt.figure(figsize=(10,6))
+plt.plot(df.index, df['Rainfall'], label='Rainfall (mm)', color='green')
+plt.plot(df.index, df['Evaporation'], label='Evaporation (mm)', color='orange')
+plt.xlabel('Index (proxy for time)')
+plt.ylabel('Millimeters (mm)')
+plt.title('Rainfall vs Evaporation Over Index')
+plt.legend()
+plt.show()
