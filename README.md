@@ -1,3 +1,13 @@
+### Project: Data Analysis using Kaggle Weather dataset
+
++ This project provides a set of visualizations and analyses based on weather data from the weather.csv file.
++ The dataset includes variables such as temperatures, rainfall, evaporation, humidity, wind speeds, and cloud cover. The purpose is to explore trends, compare key variables, and generate insights from the data using Python.
+
+  
+  - ➡️ 🌐 [View Kaggle Dataset](https://github.com](https://www.kaggle.com/datasets/zaraavagyan/weathercsv/code))
+
+
+
 ### Visualizations Created
 - MinTemp and MaxTemp Over Time: Shows how minimum and maximum temperatures vary over the dataset's index.
 - Rainfall and Evaporation Comparison: Provides insights into how much rain is falling compared to how much water is evaporating.
