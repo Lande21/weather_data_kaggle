@@ -40,3 +40,36 @@ plt.ylabel('Humidity (%)')
 plt.title('Humidity at 9am vs 3pm Over Index')
 plt.legend()
 plt.show()
+
+#4
+
+plt.figure(figsize=(10,6))
+plt.plot(df.index, df['WindSpeed9am'], label='Wind Speed at 9am (km/h)', color='gray')
+plt.plot(df.index, df['WindSpeed3pm'], label='Wind Speed at 3pm (km/h)', color='brown')
+plt.xlabel('Index (proxy for time)')
+plt.ylabel('Wind Speed (km/h)')
+plt.title('Wind Speed at 9am vs 3pm Over Index')
+plt.legend()
+plt.show()
+
+#5
+
+plt.figure(figsize=(10,6))
+plt.plot(df.index, df['Sunshine'], label='Sunshine Hours', color='gold')
+plt.xlabel('Index (proxy for time)')
+plt.ylabel('Sunshine (hours)')
+plt.title('Sunshine Hours Over Index')
+plt.legend()
+plt.show()
+
+#6
+
+plt.figure(figsize=(10,6))
+plt.plot(df.index, df['Cloud9am'], label='Cloud Cover at 9am (oktas)', color='lightblue')
+plt.plot(df.index, df['Cloud3pm'], label='Cloud Cover at 3pm (oktas)', color='darkblue')
+plt.xlabel('Index (proxy for time)')
+plt.ylabel('Cloud Cover (oktas)')
+plt.title('Cloud Cover at 9am vs 3pm Over Index')
+plt.legend()
+plt.show()
+
