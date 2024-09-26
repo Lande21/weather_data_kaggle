@@ -15,3 +15,16 @@
 - Wind Speed at 9am vs 3pm: Displays wind speed variations throughout the day.
 - Sunshine Hours: Plots the number of sunshine hours over time to understand cloud cover and sunny days.
 - Cloud Cover at 9am vs 3pm: Visualizes changes in cloud cover at two different times of day.
+
+
+***Currently working on :***
+
+1. Data Aggregation:
+Add more complex statistical analysis, such as calculating the mean, median, or standard deviation of weather variables.
+Group data by other criteria (e.g., seasonal grouping if date data is added).
+2. Feature Engineering:
+Create new variables, such as temperature range (MaxTemp - MinTemp) or humidity difference (Humidity9am - Humidity3pm).
+3. Machine Learning Models:
+Use this dataset to build predictive models for rain prediction (e.g., predicting RainTomorrow using variables like humidity, cloud cover, and wind speed).
+4. Advanced Visualizations:
+Incorporate seaborn for more detailed statistical visualizations, such as heatmaps for correlations between variables.
