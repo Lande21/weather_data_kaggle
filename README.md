@@ -4,7 +4,7 @@
 + The dataset includes variables such as temperatures, rainfall, evaporation, humidity, wind speeds, and cloud cover. The purpose is to explore trends, compare key variables, and generate insights from the data using Python.
 
   
-  - ➡️ 🌐 [View Kaggle Dataset](https://github.com](https://www.kaggle.com/datasets/zaraavagyan/weathercsv/code))
+  - ➡️ 🌐 [View Kaggle Dataset](https://www.kaggle.com/datasets/zaraavagyan/weathercsv/code)
 
 
 
