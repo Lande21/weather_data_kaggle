@@ -30,3 +30,13 @@ plt.ylabel('Millimeters (mm)')
 plt.title('Rainfall vs Evaporation Over Index')
 plt.legend()
 plt.show()
+
+#3
+plt.figure(figsize=(10,6))
+plt.plot(df.index, df['Humidity9am'], label='Humidity at 9am (%)', color='cyan')
+plt.plot(df.index, df['Humidity3pm'], label='Humidity at 3pm (%)', color='purple')
+plt.xlabel('Index (proxy for time)')
+plt.ylabel('Humidity (%)')
+plt.title('Humidity at 9am vs 3pm Over Index')
+plt.legend()
+plt.show()
