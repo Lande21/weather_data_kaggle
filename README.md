@@ -19,8 +19,7 @@
 
 ***Currently working on :***
 
-1. Data Aggregation:
-Add more complex statistical analysis, such as calculating the mean, median, or standard deviation of weather variables.
+1. Data Aggregation by adding more complex statistical analysis, such as calculating the mean, median, or standard deviation of weather variables.
 Group data by other criteria (e.g., seasonal grouping if date data is added).
 2. Feature Engineering:
 Create new variables, such as temperature range (MaxTemp - MinTemp) or humidity difference (Humidity9am - Humidity3pm).
