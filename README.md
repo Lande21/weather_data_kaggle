@@ -27,5 +27,7 @@ Create new variables, such as temperature range (MaxTemp - MinTemp) or humidity 
 Use this dataset to build predictive models for rain prediction (e.g., predicting RainTomorrow using variables like humidity, cloud cover, and wind speed).
 4. Advanced Visualizations:
 Incorporate seaborn for more detailed statistical visualizations, such as heatmaps for correlations between variables.
+
+I had fun with Marwa and Abi and i thank god for them and congratulation to him on
  
 
