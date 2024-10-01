@@ -28,4 +28,4 @@ Use this dataset to build predictive models for rain prediction (e.g., predictin
 4. Advanced Visualizations:
 Incorporate seaborn for more detailed statistical visualizations, such as heatmaps for correlations between variables.
 
-I JUST CAME FROM THE EASA 
+I JUST CAME FROM 
